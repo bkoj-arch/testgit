@@ -4,5 +4,6 @@ class lol():
         self.atrr=False
         self.test="test"
         self.age=2
+        self.branch=False
         self.nom="bob"
         self.isTrue=True
