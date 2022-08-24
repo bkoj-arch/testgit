@@ -3,4 +3,5 @@ class lol():
         self.lel="lel"
         self.atrr=False
         self.test="test"
+        self.age=2
         self.isTrue=True
